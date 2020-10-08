@@ -14,8 +14,8 @@ public class RunClassfirst {
       FirstC  n = new FirstC();
       FirstC ida = new FirstC();
      FirstC b = new FirstC();
-      n.nome="Fulano";
-      ida.idade = 25;
+      n.nome="Ciclano";
+      ida.idade = 30;
     
         System.out.println("Nome: " +n.nome);
         System.out.println("Idade: "+ida.idade);
