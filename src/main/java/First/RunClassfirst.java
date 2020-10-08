@@ -13,13 +13,12 @@ public class RunClassfirst {
     public static void main(String[] args) {
       FirstC  n = new FirstC();
       FirstC ida = new FirstC();
-      FirstC b = new FirstC();
+     FirstC b = new FirstC();
       n.nome="Fulano";
       ida.idade = 25;
-      b.bairro = "Bairro dos Desconhecidos";
-      
+    
         System.out.println("Nome: " +n.nome);
         System.out.println("Idade: "+ida.idade);
-        System.out.println("Bairro: "+b.bairro);
+       
     }
 }

@@ -12,5 +12,5 @@ package First;
 public class FirstC {
     public String  nome;
     public int idade;
-    public String bairro;
+   
 }
